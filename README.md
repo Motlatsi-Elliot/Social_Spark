@@ -8,7 +8,7 @@ This is an App that provides social interaction suggestions based on the user's 
 
 
 
- #        Core-FEATURE 
+ #        Core-FEATURES
  *Provides specific activities based on "Morning", "Afternoon", "Evening" or "Night" inputs
  *Anything that is not one of the four valid timeframes will be rejected(error message pops up)
  *Automatically handles "Morning" and "morning" using .lowercase and .trim()
