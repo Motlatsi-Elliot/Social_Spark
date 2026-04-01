@@ -8,18 +8,20 @@ This is an App that provides social interaction suggestions based on the user's 
 
 
 
- #        FEATURES
-The following features are provided in the app
-.The Input field whereby the user will input the time of the day.
-.The Suggest Button that will execute the suggestions based on the input the user provided
-.The Reset Button that  will clear  everything inside the input and the display suggest field upon clicking it.
-.And the Display suggest field that will display different kind of texts executed by the suggest display button
+ #        Core-FEATURE 
+ *Provides specific activities based on "Morning", "Afternoon", "Evening" or "Night" inputs
+ *Anything that is not one of the four valid timeframes will be rejected(error message pops up)
+ *Automatically handles "Morning" and "morning" using .lowercase and .trim()
+ *Incase of an Invalid input, .error provides a red"!" with an error message
+
+ *LinearLayout designed to easy navigation and readbility
 
   #      IF STATEMENTS
 The code makes use of the if statements to execute the text only if certain conditions are met
-eg. If the user input is "morning" ,the if statement checks if the condition is true and if so execute the code(the suggestion)
+eg. If the user input is "morning" ,the if statement checks if the condition is true and if so, executes the code(the suggestion message)
           
 #	Error Handling
 I've also used error handling to prevent the program from crashing should the user input the incorrect text
-.Should the user input  be empty, The if statement will be executed to display the text "Invalid Input Entered"
-.Should the user input a value besides... "Morning", "Mid-Morning", "Afternoon", "night", "Evening" ,An Error message will be displayed
+*Should the user input  be empty, The if statement will be executed to display the text "Invalid Input Entered"
+*Should the user input a value besides... "Morning",  "Afternoon", "night", "Evening" ,An Error message will be displayed
+
