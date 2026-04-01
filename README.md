@@ -1,7 +1,7 @@
 # Social-Spark-App
 A Repo for a Daily Social Suggester App (ST10537175)
 
-This is an App that provides social interaction suggestions based on the user's input time of day, You can watch the video at https://youtu.be/U6_nwlzV7Gw to understand and get the full experience on how exactly the app works
+This is an App that provides social interaction suggestions based on the user's input time of day, You can watch the video at [https://youtu.be/U6_nwlzV7Gw](https://youtu.be/X1bFXFZ8aGM) to understand and get the full experience on how exactly the app works
 
 <img width="1920" height="1032" alt="social S" src="https://github.com/user-attachments/assets/23607a0a-8903-40ba-81cd-b622baad0c9a" />
 
