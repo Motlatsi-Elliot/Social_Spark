@@ -4,7 +4,7 @@ A Repo for a Daily Social Suggester App (ST10537175)
 This is an App that provides social interaction suggestions based on the user's input time of day, You can watch the video at https://youtu.be/U6_nwlzV7Gw to understand and get the full experience on how exactly the app works
 
 
-![WhatsApp Image 2026-03-30 at 12 27 11](https://github.com/user-attachments/assets/b18b1ca0-b3d6-4eaf-8d1c-c2b78283cb11)
+
 
 
  #        FEATURES
